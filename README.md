@@ -8,7 +8,7 @@ greet("John")
 
 <kbd>Ctrl</kbd>
 
-- [ ] Task 1
+- [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
 
